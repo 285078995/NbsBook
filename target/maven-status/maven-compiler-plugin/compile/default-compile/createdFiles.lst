@@ -1,0 +1,17 @@
+dev\nbsbook\NbsBookPlugin.class
+dev\nbsbook\NbsCommand.class
+dev\nbsbook\nbs\NbsSong$Note.class
+dev\nbsbook\nbs\NbsSong.class
+dev\nbsbook\JukeboxListener.class
+dev\nbsbook\song\SongCodec$CodecException.class
+dev\nbsbook\song\SongCodec.class
+dev\nbsbook\song\DecodedSong.class
+dev\nbsbook\PlayerListener.class
+dev\nbsbook\song\SongPlayer$SourceKind.class
+dev\nbsbook\song\SongPlayer.class
+dev\nbsbook\song\DecodedSong$TickEvent.class
+dev\nbsbook\song\BookUtil.class
+dev\nbsbook\LonelyMusicianManager.class
+dev\nbsbook\nbs\NbsParser.class
+dev\nbsbook\song\SongPlayer$SongTask.class
+dev\nbsbook\song\DecodedSong$NoteEvent.class
