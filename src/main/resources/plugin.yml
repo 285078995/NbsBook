@@ -1,0 +1,21 @@
+name: NbsBook
+version: '1.0.0'
+main: dev.nbsbook.NbsBookPlugin
+api-version: '1.21'
+description: 将 NBS 乐谱导入成书与笔，手持书本演奏音符盒音乐
+
+commands:
+  nbs:
+    description: NbsBook 主命令
+    usage: /nbs <import|load|list|summon|musician|jukebox|play|stop>
+
+permissions:
+  nbsbook.use:
+    description: 使用 /nbs import 导入乐谱
+    default: op
+  nbsbook.admin:
+    description: 使用 /nbs load、列表、召唤、音乐家和唱片机管理命令的管理权限
+    default: op
+  nbsbook.play:
+    description: 使用 /nbs play 和 /nbs stop 的播放权限
+    default: true
