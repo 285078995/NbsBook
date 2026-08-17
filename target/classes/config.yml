@@ -1,0 +1,7 @@
+# 孤独的音乐家功能开关：控制怪物生成时是否会被替换为音乐家
+musician:
+  enabled: true
+
+# 生成乐谱书时，在乐谱内容前预留的空白页数量
+book:
+  blank_pages_before: 0
